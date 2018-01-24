@@ -1,17 +1,4 @@
-test
+GitHub, SourceTreeの使い方のチュートリアル
 
 
-test2
-
-
-test3_sub
-
-
-conflict2
-
-
-remote repository
-
-
-
-in_repo2_proton17
+http://naichilab.blogspot.jp/2014/01/gitsourcetreegit.html
